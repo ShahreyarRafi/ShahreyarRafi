@@ -21,14 +21,14 @@
 - Engineered a membership system with Silver, Gold, and Platinum packages, integrating secure Stripe payments.
 - Established a robust review and like system, restricting meal requests based on user premium status.
 
-  # BDJobs - Dynamic Job Management || [Live Site](https://a-11-62f53.web.app)
+# BDJobs - Dynamic Job Management || [Live Site](https://a-11-62f53.web.app)
 
 - Engineered a MERN stack job finder website, empowering users with private routes for adding, updating, and deleting job listings.
 - Designed user-centric pages for managing posted jobs and viewing applied jobs, ensuring exclusive access based on user login.
 - Implemented filter systems for enhanced user experience, coupled with secure CRUD operations featuring meaningful toast notifications.
 - Enforced security measures using environment variables, achieved JWT implementation, and incorporated...
 
-  # Automova - Automotive Excellence || [Live Site](https://a-10-44154.web.app)
+# Automova - Automotive Excellence || [Live Site](https://a-10-44154.web.app)
 
 - Crafted a professional Automotive industry website with user-friendly navigation and a visually engaging home page showcasing featured cars and brand highlights.
 - Secured "Add Product" functionality for registered users, allowing them to list vehicles with detailed information and images.
