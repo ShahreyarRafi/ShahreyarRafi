@@ -14,4 +14,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShahreyarRafi&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahreyarRafi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Campus Cuisine - Hostel Management System [Live Site](https://campus-cuisine.firebaseapp.com)
+
+- Developed a MERN stack solution for an efficient hostel meal management system for universities.
+- Implemented user-friendly interfaces with personalized profiles, dynamic dashboards, and responsive design.
+- Engineered a membership system with Silver, Gold, and Platinum packages, integrating secure Stripe payments.
+- Established a robust review and like system, restricting meal requests based on user premium status.
+
