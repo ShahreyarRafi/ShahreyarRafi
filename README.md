@@ -1,6 +1,6 @@
 <img  alt="codeing" width="2000" src="https://github.com/ShahreyarRafi/ShahreyarRafi/assets/72653801/22abba25-6d24-452e-a833-1b7f889f2f4c">
 
-# 💫 About Me:
+# 💫 Hi, I'm Shahreyar Rafi:
 🔭 I’m currently working on Web Development, focusing on projects that leverage the latest technologies.<br>👯 I’m looking to collaborate on innovative web applications or open-source projects that push the boundaries of what's possible on the web.<br>🤝 I’m looking for help with optimizing performance in web applications and exploring best practices in modern web development.<br>🌱 I’m currently learning Next.js to enhance my skills in building powerful and efficient React applications.<br>💬 Ask me anything about web development, JavaScript, React.js or the latest trends in the tech industry!<br><br>📫 Connect with me:<br>- GitHub: [ShahreyarRafi](https://github.com/ShahreyarRafi)<br>- LinkedIn: [ShahreyarRafi](https://www.linkedin.com/in/ShahreyarRafi)<br>- Twitter: [ShahreyarRafi](https://twitter.com/ShahreyarRafi)<br>Let's build the future of the web together! 🚀<br>
 
 
