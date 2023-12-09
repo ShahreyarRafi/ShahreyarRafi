@@ -14,10 +14,26 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShahreyarRafi&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahreyarRafi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-# Campus Cuisine - Hostel Management System [Live Site](https://campus-cuisine.firebaseapp.com)
+# Campus Cuisine - Hostel Management System || [Live Site](https://campus-cuisine.firebaseapp.com)
 
 - Developed a MERN stack solution for an efficient hostel meal management system for universities.
 - Implemented user-friendly interfaces with personalized profiles, dynamic dashboards, and responsive design.
 - Engineered a membership system with Silver, Gold, and Platinum packages, integrating secure Stripe payments.
 - Established a robust review and like system, restricting meal requests based on user premium status.
+
+  # BDJobs - Dynamic Job Management || [Live Site](https://a-11-62f53.web.app)
+
+- Engineered a MERN stack job finder website, empowering users with private routes for adding, updating, and deleting job listings.
+- Designed user-centric pages for managing posted jobs and viewing applied jobs, ensuring exclusive access based on user login.
+- Implemented filter systems for enhanced user experience, coupled with secure CRUD operations featuring meaningful toast notifications.
+- Enforced security measures using environment variables, achieved JWT implementation, and incorporated...
+
+  # Automova - Automotive Excellence || [Live Site](https://a-10-44154.web.app)
+
+- Crafted a professional Automotive industry website with user-friendly navigation and a visually engaging home page showcasing featured cars and brand highlights.
+- Secured "Add Product" functionality for registered users, allowing them to list vehicles with detailed information and images.
+- Streamlined the shopping experience with a private "My Cart" section, product updates, and responsive design for optimal user interaction.
+- Ensured secure authentication, user profiles, and a 404 error page for a reliable and intuitive browsing experience.
+
+
 
